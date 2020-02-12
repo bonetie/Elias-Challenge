@@ -1,0 +1,69 @@
+# our Windows Machines
+10.20.30.40       winprj01   winprj01.prj01.sps   pid=1   ia1=y   domain=prj01   myid=1   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.68    winprj03   winprj03.prj03.sps   pid=1   ia1=y   domain=prj03   myid=3   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.69    winprj04   winprj04.prj04.sps   pid=1   ia1=y   domain=prj04   myid=4   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.70    winprj05   winprj05.prj05.sps   pid=1   ia1=y   domain=prj05   myid=5   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.71    winprj06   winprj06.prj06.sps   pid=1   ia1=y   domain=prj06   myid=6   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.72    winprj07   winprj07.prj07.sps   pid=1   ia1=y   domain=prj07   myid=7   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.73    winprj08   winprj08.prj08.sps   pid=1   ia1=y   domain=prj08   myid=8   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.74    winprj09   winprj09.prj09.sps   pid=1   ia1=y   domain=prj09   myid=9   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.75    winprj10   winprj10.prj10.sps   pid=1   ia1=y   domain=prj10   myid=10   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.76    winprj11   winprj11.prj11.sps   pid=1   ia1=y   domain=prj11   myid=11   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.77    winprj12   winprj12.prj12.sps   pid=1   ia1=y   domain=prj12   myid=12   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.79    winprj14   winprj14.prj14.sps   pid=1   ia1=y   domain=prj14   myid=14   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.82    winprj16   winprj16.prj16.sps   pid=1   ia1=y   domain=prj16   myid=16   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+1.2.3.4           winprj17   winprj17.prj17.sps   pid=1   ia1=y   domain=prj17   myid=17   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   
+540.300.759.85    winprj19   winprj19.prj19.sps   pid=1   ia1=y   domain=prj19   myid=19   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.87    winprj20   winprj20.prj20.sps   pid=1   ia1=y   domain=prj20   myid=20   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.94    winprj22   winprj22.prj22.sps   pid=1   ia1=y   domain=prj22   myid=22   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.95    winprj23   winprj23.prj23.sps   pid=1   ia1=y   domain=prj23   myid=23   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.96    winprj24   winprj24.prj24.sps   pid=1   ia1=y   domain=prj24   myid=24   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.97    winprj25   winprj25.prj25.sps   pid=1   ia1=y   domain=prj25   myid=25   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.98    winprj26   winprj26.prj26.sps   pid=1   ia1=y   domain=prj26   myid=26   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.99    winprj27   winprj27.prj27.sps   pid=1   ia1=y   domain=prj27   myid=27   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.102   winprj28   winprj28.prj28.sps   pid=1   ia1=y   domain=prj28   myid=28   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.103   winprj29   winprj29.prj29.sps   pid=1   ia1=y   domain=prj29   myid=29   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.104   winprj30   winprj30.prj30.sps   pid=1   ia1=y   domain=prj30   myid=30   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.105   winprj31   winprj31.prj31.sps   pid=1   ia1=y   domain=prj31   myid=31   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.106   winprj32   winprj32.prj32.sps   pid=1   ia1=y   domain=prj32   myid=32   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.107   winprj33   winprj33.prj33.sps   pid=1   ia1=y   domain=prj33   myid=33   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.108   winprj34   winprj34.prj34.sps   pid=1   ia1=y   domain=prj34   myid=34   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+
+540.300.759.109   winprj35   winprj35.prj35.sps   pid=1   ia1=y   domain=prj35   myid=35   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.112   winprj36   winprj36.prj36.sps   pid=1   ia1=y   domain=prj36   myid=36   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.113   winprj37   winprj37.prj37.sps   pid=1   ia1=y   domain=prj37   myid=37   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.114   winprj38   winprj38.prj38.sps   pid=1   ia1=y   domain=prj38   myid=38   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.115   winprj39   winprj39.prj39.sps   pid=1   ia1=y   domain=prj39   myid=39   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.116   winprj40   winprj40.prj40.sps   pid=1   ia1=y   domain=prj40   myid=40   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.117   winprj41   winprj41.prj41.sps   pid=1   ia1=y   domain=prj41   myid=41   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.118   winprj42   winprj42.prj42.sps   pid=1   ia1=y   domain=prj42   myid=42   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.119   winprj43   winprj43.prj43.sps   pid=1   ia1=y   domain=prj43   myid=43   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.121   winprj45   winprj45.prj45.sps   pid=1   ia1=y   domain=prj45   myid=45   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.122   winprj46   winprj46.prj46.sps   pid=1   ia1=y   domain=prj46   myid=46   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.123   winprj47   winprj47.prj47.sps   pid=1   ia1=y   domain=prj47   myid=47   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.66    winprj01   winprj01.prj01.sps   pid=2   ia1=y   domain=prj01   myid=2   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+
+# our Linux Machines
+540.300.759.86    lnx99csv   lnx99csv.99csv.sps   pid=1   ia1=y   domain=99csv   myid=99   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.88    lnx01csv   lnx01csv.01csv.sps   pid=1   ia1=y   domain=01csv   myid=1   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.124   lnx02csv   lnx02csv.02csv.sps   pid=1   ia1=y   domain=02csv   myid=2   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.67    lnx03csv   lnx03csv.03csv.sps   pid=1   ia1=y   domain=03csv   myid=3   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.120   lnx04csv   lnx04csv.04csv.sps   pid=1   ia1=y   domain=04csv   myid=4   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.78    lnx05csv   lnx05csv.05csv.sps   pid=1   ia1=y   domain=05csv   myid=5   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.84    lnx06csv   lnx06csv.06csv.sps   pid=1   ia1=y   domain=06csv   myid=6   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.128   lnx07csv   lnx07csv.07csv.sps   pid=1   ia1=y   domain=07csv   myid=7   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.130   lnx08csv   lnx08csv.08csv.sps   pid=1   ia1=y   domain=08csv   myid=8   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.129   lnx09csv   lnx09csv.09csv.sps   pid=1   ia1=y   domain=09csv   myid=9   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.131   lnx10csv   lnx10csv.10csv.sps   pid=1   ia1=y   domain=10csv   myid=10   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.132   lnx11csv   lnx11csv.11csv.sps   pid=1   ia1=y   domain=11csv   myid=11   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.133   lnx12csv   lnx12csv.12csv.sps   pid=1   ia1=y   domain=12csv   myid=12   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.134   lnx13csv   lnx13csv.13csv.sps   pid=1   ia1=y   domain=13csv   myid=13   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+540.300.759.135   lnx14csv   lnx14csv.14csv.sps   pid=1   ia1=y   domain=14csv   myid=14   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+
+# other Machines
+630.610.606.2     psgcwb     psgcwb.mouse-p.sps   pid=1   ia1=m   domain=mouse   myid=70   wsm=PR   wid=2   wst=NA,HI,CP,SC,DS   #ADM
+630.610.606.3     psglax     psglax.cat01-d.sps   pid=1   ia1=y   domain=cat01   myid=71   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+630.610.606.4     psgcgn     psgcgn.dog10-h.sps   pid=1   ia1=y   domain=dog10   myid=72   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+630.610.606.5     psgmia     psgmia.bird-x9.sps   pid=1   ia1=y   domain=birdp   myid=73   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+630.610.606.6     psgnbg     psgnbg.nbg-psg.sps   pid=1   ia1=y   domain=nbg01   myid=74   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
+630.610.606.7     psgsdu     psgsdu.sdu-psg.sps   pid=1   ia1=y   domain=sdu01   myid=75   wsm=PR   wid=1   wst=NA,HI,CP,SC,DS   #ADM
